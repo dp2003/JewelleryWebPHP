@@ -1,0 +1,19 @@
+body{   
+    background:white ;  
+}  
+#frm{ 
+ 
+    font-family: Candara;
+    
+    width:25%;  
+    border-radius: 2px;  
+    margin: 120px auto;  
+    background: #eee;  
+    padding: 50px;  
+}  
+#btn{  
+    color: #fff;  
+    background: #0abab5;  
+    padding: 7px;  
+    margin-left: 70%;  
+}  
